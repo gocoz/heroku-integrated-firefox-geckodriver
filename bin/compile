@@ -117,6 +117,9 @@ case "$STACK" in
       libsecret-1-0
       woff2
       libgles2
+      libcairo-script-interpreter2
+      libglfw3
+      libgles2-mesa-dev
     "
     ;;	
   *)	
