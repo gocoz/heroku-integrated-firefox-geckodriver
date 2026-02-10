@@ -96,7 +96,6 @@ case "$STACK" in
       libxt6	
       libxtst6	
       fonts-liberation	
-      libasound2t64
       libatk-bridge2.0-0t64
       libatk1.0-0t64
       libatspi2.0-0t64
@@ -163,16 +162,6 @@ case "$STACK" in
       libxslt1.1
       libx264-164
       libavif16
-      xvfb
-      fonts-noto-color-emoji
-      fonts-unifont
-      xfonts-cyrillic
-      xfonts-scalable
-      fonts-liberation
-      fonts-ipafont-gothic
-      fonts-wqy-zenhei
-      fonts-tlwg-loma-otf
-      fonts-freefont-ttf
       libxml2-dev 
       libxml2-utils 
       python3-libxml2
